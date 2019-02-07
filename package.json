@@ -1,0 +1,28 @@
+{
+  "name": "git-auto-pull-stream",
+  "version": "1.2.3",
+  "description": "Git auto pull stream for updating your servers via curl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corupta/git-auto-pull-stream.git"
+  },
+  "keywords": [
+    "git",
+    "auto",
+    "pull",
+    "stream",
+    "server",
+    "update",
+    "curl"
+  ],
+  "author": "corupta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/corupta/git-auto-pull-stream/issues"
+  },
+  "homepage": "https://github.com/corupta/git-auto-pull-stream#readme"
+}
